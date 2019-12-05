@@ -1,7 +1,8 @@
 from urllib.request import urlopen
 import json
 
-def get_weather(city):
+def get_weather_of(city):
+def get_city_weather(city):
     garbabge code that cannot         work
 
 
