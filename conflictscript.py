@@ -2,8 +2,10 @@ from urllib.request import urlopen
 import json
 
 def get_weather_of(city):
+
     print('garbabge code that cannot         work')
     print('N0t VeRy UsefUL C0D3')
+
 
 
 
